@@ -1,0 +1,16 @@
+body{
+    color: aliceblue;
+    background-color: blueviolet;
+} 
+.heading{
+    width: 80%;
+    font-size: 20px; ;
+}
+#camera{
+    border: 2px double blanchedalmond;
+    width: 350px;
+    height: 300px;
+}
+#result_object_name, #result_object_accuracy, .name_of_the_objects{
+color: coral;
+}
